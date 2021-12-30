@@ -10,6 +10,8 @@ it handles a few interesting challenges you can face when creating a plugin:
 
 Check the tests file to understand the scenarios when the plugin would report an error.
 
+If you are considering using a plugin like that, my advice would be to take a look at a type system.
+
 ## Installation
 
 You'll first need to install [ESLint](https://eslint.org/):
